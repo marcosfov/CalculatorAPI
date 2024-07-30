@@ -96,13 +96,18 @@ Este projeto é uma API de calculadora simples desenvolvida em C# que oferece op
    ```bash
    cd CalculadoraAPI
    ```
-
-3. **Restaure as dependências**:
+   
+3. **Navegue até o diretório da API**:
+   ```bash
+   cd CalculadoraAPI
+   ```
+   
+4. **Restaure as dependências**:
    ```bash
    dotnet restore
    ```
 
-4. **Execute o projeto**:
+5. **Execute o projeto**:
    ```bash
    dotnet run
    ```
